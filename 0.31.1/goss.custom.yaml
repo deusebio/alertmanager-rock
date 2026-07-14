@@ -1,4 +1,4 @@
-# Non-root compliance checks for alertmanager 0.31.1
+# Non-root compliance checks for alertmanager
 # Verifies that the image runs as _daemon_ (uid/gid 584792) and that
 # all paths required by the charm are accessible by _daemon_.
 
